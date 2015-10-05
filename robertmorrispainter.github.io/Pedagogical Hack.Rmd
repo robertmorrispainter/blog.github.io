@@ -1,0 +1,28 @@
+---
+output: html_document
+---
+---
+title: "Pedagogical Hack"
+author: "Robert Morris"
+date: "27 September 2015"
+output: html_document
+
+
+The Christchurch libraries are a big surprise and not what you might expect!
+
+Over the past few weeks I have been studying R programming language at the local libraries. And in the process I`ve been meeting some really interesting people. I'll explain in a second, but first, let me tell you how wonderful the libraries are. Really, they get a star rating from me - great internet, quicker during the week than over the weekends. Lots of new book arrivals. Magazines to browse. Computers of course, and comfy seating. Plenty of light, and yes, helpful staff too. It really is a pleasant experience and the council should be congratulated. 
+
+But, there`s another unnoticed resource there. The people. Most who visit the libraries each day are unemployed, studying or retired.  Three quite distinct groupings.
+
+The retired, are generally elderly, single, interesting and curious, and very pleasant to chat with, simply because they have time, and knowledge.
+
+The students, or people who study are generally from overseas. Foreigners, new immigrants, ESL students, but also researchers, and people utilising the resources the libraries have to offer. 
+
+Of course there are parents and children (under 10). They come in and out throughout the day, sometimes in groups and play with the toys, read, sit on computers. 
+
+And the last group, is perhaps the most interesting because they comprise of the majority of the people that frequent the library and have a lot of interesting stories to tell. At Peterborough Street, there`s one chap who does puzzles, every other day. He doesn`t chat much, concentrates, and loses himself in the world of puzzles. But, he`s also interacting. With the elderly, and sometimes with children, who are also interested in doing puzzles. Then there`s a really interesting guy who taught himself C++, and enjoys political discourse, and wants to start a political party based around the concepts of anarcho capitalism. I think he will. The last time I caught up with him he was sorting out a name. But, sadly, he`s been unable to find employment. Even though he is a talented programmer, and quite obviously highly intelligent, he was homeschooled, and didn`t receive any formal qualifications. So, with nothing to show, and no experience in the workplace, he sits at his folks place, unemployed. He also has a learning disability. And because of this he can`t drive. He doesn`t have a sense of space, or time and thinks verbally. But, he has talent. Then there is a group of unemployed who aren`t really interested in reading per se, but, love the computers. Playing games I`ve never heard of, about, collecting weaponry and blowing up things. Some have spent time in prison. Others, are working towards it. And almost all of them, feel abandoned by the system. From broken homes, with various mental illnesses, or learning disorders unable to find the place in society. And in my mind they`re a tremendous talent pool.
+
+What`s beautful about libraries, is that each of these groups are housed under the same roof each day. The elderly, the parents and children, the students and the marginalised. And, with this mix comes respect. Respect for the staff, the building, and the privilige of being inside a place of knowledge and learning.
+
+Which leads me to the title of this post. Pedagogical hacking is a term used to describe hybrid pedagogy, which is a way of teaching and learning, that`s tailored to each and every student. The theory is that if the students take control of how they learn, why they learn, where, and with whome, they become highly engaged. When a student doesn`t fit the system, it means they don`t feel comfortable within the hierarchical structure they find themselves in, and it doesn`t meet their personal needs, or learning style, so they respond by leaving, or become rebellious. They try and fight the system. Most of the time, in my experience, people with learning disorders simply fall behind. Or disengage. 
+
